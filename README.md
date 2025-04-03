@@ -1,5 +1,5 @@
 # Pathfinder Between Two Cities
-# by Anmol
+# by Abhishek Jaiswal
 
 Pathfinder Between Two Cities is a Python-based project that calculates the shortest path between two cities using graph algorithms. It provides a simple interface to input city connections and find the optimal route between any two cities.
 
